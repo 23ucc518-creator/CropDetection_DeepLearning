@@ -1,1 +1,1 @@
-Crop Detection using HSI imagery README
+Crop Detection using HSI imagery
